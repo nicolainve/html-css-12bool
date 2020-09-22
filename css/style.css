@@ -1,3 +1,16 @@
 body {
   font-family: "Arial", sans-serif;
 }
+
+h1,
+h2 {
+  text-align: center;
+  margin: 35px;
+}
+
+.box {
+  padding: 20px;
+  text-align: center;
+  background: gold;
+  border: 5px dotted red;
+}
