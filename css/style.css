@@ -5,11 +5,11 @@ body {
 h1,
 h2 {
   text-align: center;
-  margin: 35px;
+  margin: 30px;
 }
 
 .box {
-  padding: 20px;
+  padding: 5px;
   text-align: center;
   background: gold;
   border: 5px dotted red;
